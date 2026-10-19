@@ -28,12 +28,14 @@ Since photon energy and wavelength are inversely related, this also changes the 
 
 To describe this relationship mathematically, I used the **Brus equation**:
 
+
 $$
-E(R)=E_{g,\mathrm{bulk}}+
-\frac{\pi^2\hbar^2}{2R^2}
-\left(\frac{1}{m_e^*}+\frac{1}{m_h^*}\right)
--\frac{1.8e^2}{4\pi\varepsilon_0\varepsilon_rR}
+E(R) = E_{g,\mathrm{bulk}}
++ \frac{\pi^{2}\hbar^{2}}{2R^{2}}
+\left(\frac{1}{m_{e}^{*}} + \frac{1}{m_{h}^{*}}\right)
+- \frac{1.8e^{2}}{4\pi\varepsilon_{0}\varepsilon_{r}R}
 $$
+  
 
 The equation consists of three main parts.
 
