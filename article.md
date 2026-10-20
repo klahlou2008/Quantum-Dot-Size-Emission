@@ -30,7 +30,7 @@ To describe this relationship mathematically, I used the **Brus equation**:
 
 
 
-![Brus equation for CdSe quantum dots](brus-equation.svg)
+![Brus equation for CdSe quantum dots](brus-equation.png)
 
 
 The equation consists of three main parts.
