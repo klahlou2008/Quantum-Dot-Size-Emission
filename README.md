@@ -1,7 +1,4 @@
 # Quantum-Dot-Size-Emission
-Interactive Python simulation of size-dependent optical transitions in CdSe quantum dots
-# Quantum Dot Size vs. Optical Transition
-
 An interactive Python simulation exploring how the diameter of a CdSe quantum dot affects its predicted optical transition energy and wavelength.
 
 ## What this project does
